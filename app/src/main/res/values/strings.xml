@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AcronymDemo</string>
+    <string name="search">Search</string>
+    <string name="enter_word">Enter Word</string>
+</resources>
